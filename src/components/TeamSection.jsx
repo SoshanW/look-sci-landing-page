@@ -70,25 +70,25 @@ const TeamSection = () => {
     {
       name: "Naflan Nazar",
       role: "...",
-      description: "10+ years of experience in full-stack development and team leadership. Passionate about building scalable solutions.",
+      description: "Enthusiastic game developer with a passion for creating interactive experiences.",
       image: "../assets/images/naflan.jpg"
     },
     {
       name: "Soshan Wijayarathne",
       role: "...",
-      description: "Expert in React and modern frontend technologies. Focused on creating intuitive user experiences.",
+      description: "Singer, Songwriter and Full Stack Developer with experience in many programming languages and principles.",
       image: "../assets/images/soshan.jpg"
     },
     {
       name: "Vonara Perera",
       role: "...",
-      description: "Specialized in building robust backend systems and API architecture. AWS certified developer.",
+      description: "Tiktoker, Social Media handler and enthusiastic front end developer.",
       image: "../assets/images/vonara.jpg"
     },
     {
       name: "Mariyam Jameela",
       role: "...",
-      description: "Creative designer with a keen eye for detail. Brings user-centered design principles to every project.",
+      description: "Blender Guru, 3D artist and front end developer focused on UI/UX.",
       image: "../assets/images/mariyam.jpg"
     },
     {
