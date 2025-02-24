@@ -94,13 +94,13 @@ const TeamSection = () => {
     {
       name: "Shemeshi Robert",
       role: "...",
-      description: "Versatile developer proficient in both frontend and backend technologies. Loves solving complex problems.",
+      description: "Versatile developer proficient in both back end and prompt engineering.",
       image: "../assets/images/shemeshi.jpg"
     },
     {
       name: "Vinuki Rathnayake",
       role: "...",
-      description: "Certified project manager with expertise in agile methodologies. Ensures smooth project delivery.",
+      description: "3D interactive media developer and proficient back end developer.",
       image: "../assets/images/vinuki.jpg"
     }
   ];
